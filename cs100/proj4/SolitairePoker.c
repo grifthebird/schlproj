@@ -16,7 +16,7 @@
 #include <ctype.h>
 
 //do not remove
-#include "include.code" //Include custom header file (it contains necessary functions)
+#include "include.h" //Include custom header file (it contains necessary functions)
 //A version of the file:include.code is available from the assignment page
 //as studentinclude.code which you should save locally as include.code
 //include.code contains implementations for seed, instructions, and private_nextcard(int)
